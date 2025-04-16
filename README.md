@@ -119,7 +119,9 @@ docker run -p 8080:8080 heart-disease-api
 ## 🧑‍💻 Author
 
 **M R Vigneshwar**  
-[GitHub](https://github.com/vigneshwarmr) | [LinkedIn](https://www.linkedin.com/in/vigneshwarmr)
+**G Harshavardhini**
+[GitHub](https://github.com/vigneshwarmr) || [GitHub](https://github.com/godina-harshavardhini)
+[LinkedIn](https://www.linkedin.com/in/vigneshwarmr)
 
 ---
 
